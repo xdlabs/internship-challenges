@@ -2,6 +2,10 @@
 Fork . Solve . Welcome
 -----------------------
 
+### Challenges
+
+1. [JVM Developer Challenge](jvm-devel/)
+
 
 ### How to participate
 1. Fork this repo in github https://github.com/xdlabs/internship-challenges .
