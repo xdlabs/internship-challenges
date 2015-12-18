@@ -4,7 +4,6 @@ Fork . Solve . Welcome
 
 ### Challenges
 
-* [Data Engineering](data-engg/)
 * [JVM Development](jvm-devel/)
 
 
