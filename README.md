@@ -4,7 +4,7 @@ Fork . Solve . Welcome
 
 ### Challenges
 
-* [JVM Development](jvm-devel/)
+* [JVM Developer](jvm-devel/)
 
 
 ### How to participate

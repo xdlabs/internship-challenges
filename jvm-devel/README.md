@@ -1,4 +1,4 @@
-# JVM Development Challenge
+# JVM Developer Challenge
 --------------------------
 
 ### Goals
